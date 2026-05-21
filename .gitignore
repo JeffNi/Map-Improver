@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Output maps (generated, don't need to track)
+Maps/Map Geography Enhanced.png
+
+# OS
+.DS_Store
+Thumbs.db
